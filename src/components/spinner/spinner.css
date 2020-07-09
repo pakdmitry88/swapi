@@ -1,0 +1,93 @@
+
+@keyframes ldio-9b3sna0065u {
+  0% { transform: rotate(0) }
+  100% { transform: rotate(360deg) }
+}
+.ldio-9b3sna0065u div { box-sizing: border-box!important }
+.ldio-9b3sna0065u > div {
+  position: absolute;
+  width: 82px;
+  height: 82px;
+  top: 9px;
+  left: 9px;
+  border-radius: 50%;
+  border: 4px solid #000;
+  border-color: #3d7ec0 transparent #3d7ec0 transparent;
+  animation: ldio-9b3sna0065u 1.25s linear infinite;
+}
+
+.ldio-9b3sna0065u > div:nth-child(2), .ldio-9b3sna0065u > div:nth-child(4) {
+  width: 72px;
+  height: 72px;
+  top: 14px;
+  left: 14px;
+  animation: ldio-9b3sna0065u 1.25s linear infinite reverse;
+}
+.ldio-9b3sna0065u > div:nth-child(2) {
+  border-color: transparent #cc4545 transparent #cc4545
+}
+.ldio-9b3sna0065u > div:nth-child(3) { border-color: transparent }
+.ldio-9b3sna0065u > div:nth-child(3) div {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  transform: rotate(45deg);
+}
+.ldio-9b3sna0065u > div:nth-child(3) div:before, .ldio-9b3sna0065u > div:nth-child(3) div:after { 
+  content: "";
+  display: block;
+  position: absolute;
+  width: 4px;
+  height: 4px;
+  top: -4px;
+  left: 35px;
+  background: #3d7ec0;
+  border-radius: 50%;
+  box-shadow: 0 78px 0 0 #3d7ec0;
+}
+.ldio-9b3sna0065u > div:nth-child(3) div:after {
+  left: -4px;
+  top: 35px;
+  box-shadow: 78px 0 0 0 #3d7ec0;
+}
+
+.ldio-9b3sna0065u > div:nth-child(4) { border-color: transparent; }
+.ldio-9b3sna0065u > div:nth-child(4) div {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  transform: rotate(45deg);
+}
+.ldio-9b3sna0065u > div:nth-child(4) div:before, .ldio-9b3sna0065u > div:nth-child(4) div:after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 4px;
+  height: 4px;
+  top: -4px;
+  left: 30px;
+  background: #cc4545;
+  border-radius: 50%;
+  box-shadow: 0 68px 0 0 #cc4545;
+}
+.ldio-9b3sna0065u > div:nth-child(4) div:after {
+  left: -4px;
+  top: 30px;
+  box-shadow: 68px 0 0 0 #cc4545;
+}
+.loadingio-spinner-double-ring-up65izwl4z {
+  width: 81px;
+  height: 81px;
+  display: inline-block;
+  overflow: hidden;
+  background: none;
+}
+.ldio-9b3sna0065u {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  transform: translateZ(0) scale(0.81);
+  backface-visibility: hidden;
+  transform-origin: 0 0; /* see note above */
+}
+.ldio-9b3sna0065u div { box-sizing: content-box; }
