@@ -35,6 +35,7 @@ export default class ItemList extends Component {
     })
   }
 
+
   render() {
 
     const { peopleList } = this.state;
