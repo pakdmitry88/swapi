@@ -80,7 +80,10 @@
   height: 81px;
   display: inline-block;
   overflow: hidden;
-  background: none;
+  background: none;   
+  display: flex;
+  align-items: center;
+  width: 100%;
 }
 .ldio-9b3sna0065u {
   width: 100%;
